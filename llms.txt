@@ -1,0 +1,21 @@
+# KINGAI OPS
+
+## English
+KINGAI OPS is a KING AI ecosystem infrastructure-operations product for servers, edge systems and connected infrastructure. Public positioning focuses on visibility, governed operations, local-first control and a path toward safer fleet automation. This public repository does not publish proprietary source, internal protocols or security-sensitive implementation.
+
+Product: https://ops.kingai.work
+Official ecosystem: https://www.kingai.work
+Business & partnership: vip@kingai.work
+Public facts: README.md
+Business direction: BUSINESS.md
+Roadmap: ROADMAP.md
+
+## 中文
+KINGAI OPS 是 KING AI 主生态的服务器、Edge 和连接基础设施运维产品，公开定位强调可视化、受治理运维、本地优先控制以及长期更安全的 Fleet 自动化方向。本公开仓不发布私有源码、内部协议或安全敏感实现。
+
+产品：https://ops.kingai.work
+官网：https://www.kingai.work
+商务与合作：vip@kingai.work
+公开事实：README.md
+商业方向：BUSINESS.md
+路线图：ROADMAP.md
