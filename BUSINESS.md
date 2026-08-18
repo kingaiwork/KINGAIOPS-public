@@ -1,43 +1,40 @@
-# KINGAI OPS · Market & Partnership Direction
+# KINGAI OPS — Business & Platform Opportunity
 
 ## English
 
-KINGAI OPS addresses a broad operational market: individual servers, developer infrastructure, small fleets, managed-service providers, enterprise environments and edge/IoT deployments all need better visibility and safer automation.
+Infrastructure is persistent work. Servers require monitoring, maintenance, upgrades, security, change control and incident response long after deployment. KINGAI OPS is positioned around that recurring operating relationship.
 
-### Commercial directions
+### Commercial segments
 
-Potential paths include free single-node entry, Pro plans for developers and small fleets, Business editions for teams and policy workflows, Security capabilities, Enterprise/private-control options, MSP programs, support and strategic/OEM partnerships.
+- individual developers and technical operators;
+- small and mid-sized businesses;
+- agencies and MSPs;
+- enterprise infrastructure teams;
+- edge/device operators;
+- strategic platform and service partners.
 
-### Strategic value
+### Product ladder direction
 
-Infrastructure operations can become a recurring relationship rather than a one-time software purchase. Within KING AI, OPS can connect infrastructure visibility with governed intelligence and controlled execution while preserving clear operational boundaries.
+Accessible entry → Professional operations → Business fleet management → Enterprise governance → Managed operations / MSP → Strategic infrastructure partnerships.
 
-### Partnership interests
+### Why it can differentiate
 
-Relevant conversations include hosting providers, MSPs, cloud/edge infrastructure, hardware vendors, security companies, enterprise integrators, IoT platforms and long-term strategic capital.
+The opportunity is to combine strong operational UX with governed intelligence, rather than treating automation as permission to make uncontrolled changes. Trust, explainability and operator authority are part of the product value.
 
-No revenue, customer-count or market-leadership claim is implied unless explicitly verified.
+### Commercial paths
 
-Contact: **vip@kingai.work**
+Professional subscriptions, business/fleet plans, enterprise support, managed operations, service-provider tooling, private/hybrid deployment and strategic infrastructure relationships.
 
----
+### Integrity
 
-# 中文
+This public repository does not disclose operational implementation and does not claim unverified customers, revenue, infrastructure scale, partnerships or certifications.
 
-KINGAI OPS 面向一个非常广的运维市场：个人服务器、开发者基础设施、小型 Fleet、MSP、企业环境以及 Edge/IoT 都需要更好的可视化和更安全的自动化。
+## 中文
 
-### 商业方向
+基础设施是一种持续工作：部署完成以后仍然需要监控、维护、升级、安全、变更和故障处理。KINGAI OPS 的商业机会来自这种长期运维关系。
 
-未来可形成免费单节点入口、面向开发者和小型 Fleet 的 Pro、面向团队与策略流程的 Business、安全增强能力、Enterprise/私有控制方案、MSP 计划、技术支持以及战略/OEM 合作。
+目标客户包括开发者、技术运维、小中型企业、MSP/服务商、企业基础设施团队和边缘设备运营方。
 
-### 战略价值
+长期产品阶梯可以从易进入版本发展到专业运维、企业 Fleet 管理、企业治理、托管运维和战略基础设施合作。
 
-基础设施运维天然具有长期持续性，而不是一次性软件购买。对于 KING AI 来说，OPS 可以把基础设施可视化、受治理智慧和受控执行连接起来，同时保持清晰的运维权限边界。
-
-### 合作方向
-
-适合的合作方向包括主机/云服务商、MSP、Cloud/Edge 基础设施、硬件厂商、安全公司、企业集成商、IoT 平台及长期战略资本。
-
-除非经过明确验证，本文件不代表已经取得收入、客户规模或市场领先地位。
-
-联系：**vip@kingai.work**
+真正的差异化不是“自动化越多越好”，而是把强大的运维体验和受控智能结合起来，始终保留用户权力、解释和治理。

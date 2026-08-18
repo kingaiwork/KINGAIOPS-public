@@ -1,63 +1,98 @@
 # KINGAI OPS
 
+**Operate servers, infrastructure and edge environments with less friction and more confidence.**
+
+Official product: https://ops.kingai.work/  
+KING AI: https://www.kingai.work/  
+Business & partnerships: vip@kingai.work
+
+This public repository is a **commercial product showcase only**. It contains no operational source code, infrastructure architecture, protocols, ports, authentication details, installers, deployment instructions, privileged commands, internal APIs, security mechanisms or private configuration.
+
 ## English
 
-**Governed operations for servers, edge systems and connected infrastructure.**
+### Infrastructure operations should be understandable before they become intelligent
 
-KINGAI OPS is the infrastructure-operations product of the KING AI ecosystem. It is designed for people and organizations that want clearer visibility into systems and a more controlled path from observation to action.
+KINGAI OPS is the operations product family for people and organizations managing servers, edge systems and infrastructure. Its product direction is to make everyday operations clearer, safer and easier to manage while creating a path toward more intelligent, governed automation.
 
-### Product promise
+The product is not positioned as “AI with unlimited control over servers.” The value is the opposite: help operators understand what is happening, organize routine work, reduce avoidable mistakes and progressively automate approved operations without losing control.
 
-KINGAI OPS is built around a simple operational loop:
+### What users need from an operations product
 
-**observe → understand → approve → act → verify → audit**
+- a clear view of systems and operational status;
+- faster access to common management tasks;
+- less repetitive manual work;
+- safer handling of sensitive actions;
+- better visibility into what changed and why;
+- a path from one server to larger fleets and distributed environments.
 
-The public product direction includes:
+### Product experiences
 
-- system health and infrastructure visibility;
-- service, workload and security-posture awareness;
-- controlled operational actions rather than unrestricted automation;
-- local-first administration with optional fleet coordination;
-- server, edge and IoT-oriented product profiles;
-- future richer automation, policy, multi-node operations and enterprise governance.
+**Operations dashboard** — Bring infrastructure status and important actions into a more coherent operating surface.
 
-### Why users may want it
+**Routine management** — Reduce the effort required for recurring administration and maintenance.
 
-Infrastructure tools often become either too manual or too powerful without enough context. KINGAI OPS aims to sit between those extremes: useful enough to reduce operational work, but governed enough to remain understandable and reviewable.
+**Guided operations** — Help users understand the impact of an action before committing to it.
 
-### Part of KING AI
+**Monitoring & awareness direction** — Make relevant operational changes and risks easier to notice.
 
-KINGAI OPS is a core KING AI ecosystem product. It complements SEA intelligence, KINGAIBOT execution and KINGAI OS computing with a focused operations experience for existing infrastructure.
+**Fleet direction** — Grow from individual systems toward multi-server, edge and organization-wide operations.
 
-Product: https://ops.kingai.work  
-KING AI: https://www.kingai.work  
-Business / MSP / enterprise / partnership: **vip@kingai.work**
+**Intelligent operations direction** — Over time, approved automation can help with diagnosis, recommendations, recurring work and operational planning while keeping governance explicit.
 
-### Public repository purpose
+### Who it can serve
 
-This repository contains public product positioning, customer-safe feature descriptions, roadmap and commercial information. Proprietary source, internal protocols, credentials, private infrastructure, security-sensitive implementation and operational secrets are not published here.
+- developers managing their own infrastructure;
+- small businesses with limited operations staff;
+- agencies and service providers managing multiple customer environments;
+- enterprises exploring more governed infrastructure automation;
+- edge and device operators that need a consistent operations layer.
 
----
+### Commercial opportunity
 
-# 中文
+KINGAI OPS can support a broad product ladder: accessible/free entry, professional capabilities, business/fleet management, enterprise governance, managed operations and MSP/service-provider opportunities.
 
-**KINGAI OPS** 是 KING AI 主生态的服务器、边缘设备与基础设施运维产品。
+A strong operations business is recurring because infrastructure does not stop after installation. Systems need ongoing visibility, maintenance, security, change management and support.
 
-它不追求让 AI 自动获得无限权限，而是围绕一条清晰的操作闭环：
+### Strategic role in KING AI
 
-**观察 → 理解 → 审批 → 执行 → 验证 → 审计**
+KINGAI OPS gives the wider ecosystem a dedicated infrastructure experience. KINGAI OS provides the computing environment; KINGAIBOT represents controlled agent execution; Security focuses on protection; OPS gives people and organizations the operating surface that connects real systems with governed intelligence.
 
-### 产品方向
+Roadmap capabilities remain future directions until released and verified.
 
-- 系统健康和基础设施可视化；
-- 服务、工作负载和安全状态理解；
-- 受控操作，而不是默认无限自动化；
-- 本地优先管理，并逐步扩展 Fleet 协同；
-- 面向 Server、Edge、IoT 的产品体验；
-- 长期扩展更丰富的自动化、策略、多节点运维和企业治理。
+## 中文
 
-KINGAI OPS 属于 KING AI 主生态核心产品。公开仓只展示对用户和合作伙伴有价值的产品资料，不公开私有源码、内部协议、密钥、安全敏感实现或生产基础设施细节。
+### 运维首先应该让人看得懂，然后才谈更聪明
 
-产品：https://ops.kingai.work  
-官网：https://www.kingai.work  
-商务 / MSP / 企业 / 合作：**vip@kingai.work**
+KINGAI OPS 面向服务器、边缘设备和基础设施管理。产品方向是让日常运维更清楚、更安全、更容易管理，并逐步扩展到受控的智能自动化。
+
+它的目标不是“让 AI 获得无限服务器权限”，而是帮助运维人员更快理解系统状态、减少重复工作、降低人为错误，并在明确授权和治理下逐步自动化适合自动化的工作。
+
+### 用户真正需要什么
+
+- 清楚看到系统和运维状态；
+- 更快完成常见管理任务；
+- 减少重复人工操作；
+- 对敏感操作保持更强控制；
+- 更容易知道“发生了什么、为什么发生”；
+- 从一台服务器逐步扩展到多服务器、边缘和更大规模环境。
+
+### 产品体验
+
+**运维控制台** —— 把状态和重要操作集中到更统一的体验。
+
+**日常管理** —— 降低维护、管理和周期工作带来的重复负担。
+
+**引导式操作** —— 在执行重要动作之前，让用户更容易理解影响。
+
+**监控与风险感知方向** —— 让重要变化与风险更容易被发现。
+
+**多设备/多服务器方向** —— 从单机逐步扩展到团队和组织级基础设施管理。
+
+**智能运维方向** —— 在受控前提下帮助诊断、建议、周期工作和运维规划。
+
+### 商业化空间
+
+可形成免费/易进入版本、专业版、企业与 Fleet 管理、企业治理、托管运维和 MSP/服务商方向。基础设施天然需要长期维护，因此具备持续服务和订阅关系的空间。
+
+**Product:** https://ops.kingai.work/  
+**Business:** vip@kingai.work
